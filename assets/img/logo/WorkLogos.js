@@ -10,5 +10,5 @@ export const workLogos = {
   compassOfDesign: compassOfDesignIcon,
   microsoftEdge: microsoft,
   soMagneticProduct: soMagnetic,
-  salesforce: salesforce,
+  salesforce,
 };

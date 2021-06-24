@@ -60,6 +60,7 @@
   "license": "MIT",
   "dependencies": {
     "@intcreator/markdown-element": "^0.3.3",
+    "@vanillawc/wc-markdown": "^1.6.10",
     "deepmerge": "^4.2.2",
     "gh-pages": "^3.2.0",
     "lit-element": "^2.3.1",
@@ -70,6 +71,7 @@
     "prismjs": "^1.15.0",
     "pwa-helpers": "^0.9.1",
     "redux": "^4.0.5",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "zero-md": "^2.1.1"
   }
 }
